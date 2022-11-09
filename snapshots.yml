@@ -1,0 +1,3 @@
+- name: Home
+  url: http://www.alltron.com.mx/
+  waitForTimeout: 6000
